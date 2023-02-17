@@ -17,7 +17,7 @@ Additionally, I am looking for an internship, preferably front end in web develo
 
 [![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=CriMsonTYpo&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CriMsonTYpo&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-My Leetcode Stats:
+[![Pratik's Leetcode stats]
 <img height="175em" src="https://leetcode.card.workers.dev/?username=CriMsonTYpo&theme=dark" alt="CriMsonTYpo"/>
 <div>
   <h3>Languages and tools I've worked with:</h3><br>
@@ -46,6 +46,8 @@ My Leetcode Stats:
     <a href="https://"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"></a>
 <!--     <a href="https://"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"></a> -->
 </div>
+
+
 
 
 
