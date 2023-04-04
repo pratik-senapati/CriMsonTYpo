@@ -4,9 +4,9 @@
 
 I am pursuing a B.Tech at Vellore Institute of Technology, Vellore in Computer Science and Engineering. 
 
-I'm currently in the pursuit of become a fullstack developer in Web Development and am knee deep in it!
+I'm currently in the pursuit of becoming a Front End Web Developer.
 
-Additionally, I am looking for an internship, preferably front end in web development.
+Additionally, I am looking for an internship, preferably front-end in web development.
 
 
 📫 **Contact me by**:
