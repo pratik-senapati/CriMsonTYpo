@@ -4,10 +4,9 @@
 
 I am pursuing a B.Tech at Vellore Institute of Technology, Vellore in Computer Science and Engineering. 
 
-I'm currently in the pursuit of becoming a Front End Web Developer.
+I'm currently in the pursuit of becoming a Data Scientist and Analyst.
 
-Additionally, I am looking for an internship, preferably front-end in web development.
-
+Additionally, I am looking for an internship, preferably Data Analysis with an emphasis on finance and commerce.
 
 📫 **Contact me by**:
 - Email (pratiksenapati2018@gmail.com)
