@@ -41,7 +41,10 @@ Additionally, I am looking for an internship, preferably Data Analysis with an e
 <a href="https://"><img src="https://img.shields.io/badge/NLTK-%2300BFFF.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Seaborn-%2396D5F2.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Power%20Query-%23F2C811.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query"></a>
 <a href="https://"><img src="https://img.shields.io/badge/BERT-%23FF9800.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="BERT"></a>
+  <a href="https://"><img src="https://img.shields.io/badge/VADER-%23FB4D3D.svg?style=for-the-badge&logo=python&logoColor=white" alt="VADER"></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Random%20Forest-%23239120.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Random Forest Classifier"></a>
     <a href="https://"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
   <a href="https://"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
 <a href="https://"><img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
