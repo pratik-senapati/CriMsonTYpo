@@ -34,7 +34,19 @@ Additionally, I am looking for an internship, preferably Data Analysis with an e
 <!--     <a href="https://"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></a>
     <a href="https://"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Redux"></a>
     <a href="https://"><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"></a> -->
+  <a href="https://"><img src="https://img.shields.io/badge/Scrapy-%23024ea3.svg?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"></a>
+<a href="https://"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
+<a href="https://"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+<a href="https://"><img src="https://img.shields.io/badge/Matplotlib-%23F37726.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
+<a href="https://"><img src="https://img.shields.io/badge/NLTK-%2300BFFF.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"></a>
+<a href="https://"><img src="https://img.shields.io/badge/Seaborn-%2396D5F2.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"></a>
+<a href="https://"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
+<a href="https://"><img src="https://img.shields.io/badge/BERT-%23FF9800.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="BERT"></a>
     <a href="https://"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
+<a href="https://"><img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
+<a href="https://"><img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"></a>
+<a href="https://"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
 <!--     <a href="https://"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a> -->
 <a href="https://"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Redux"></a>
     <a href="https://"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
