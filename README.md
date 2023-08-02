@@ -4,10 +4,9 @@
 
 I am pursuing a B.Tech at Vellore Institute of Technology, Vellore in Computer Science and Engineering. 
 
-I'm currently in the pursuit of becoming a Data Scientist and Analyst.
+Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern in Data.
 
-Additionally, I am looking for an internship, preferably Data Analysis with an emphasis on finance and commerce.
-
+My primary focuses include Big Data, working with Data Lakes and building efficient ML based systems.
 📫 **Contact me by**:
 - Email (pratiksenapati2018@gmail.com)
 
