@@ -9,6 +9,7 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
 My primary focuses include Big Data, working with Data Lakes and building efficient ML based systems.
 📫 **Contact me by**:
 - Email (pratiksenapati2018@gmail.com)
+- LinkedIn https://www.linkedin.com/in/pratik-senapati-6b0896220/
 
 
 
