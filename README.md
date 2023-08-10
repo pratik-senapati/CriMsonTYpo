@@ -18,6 +18,7 @@ My primary focuses include Big Data, working with Data Lakes and building effici
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CriMsonTYpo&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h3>Pratik's Leetcode stats<h3>
 <img height="175em" src="https://leetcode.card.workers.dev/?username=CriMsonTYpo&theme=dark" alt="CriMsonTYpo"/>
+<img height="175em" src="https://www.codingninjas.com/studio/profile/843f8ea2-9112-4904-9aa2-39192299483c" alt="CriMsonTYpo"/>
 <div>
   <h3>Languages and tools I've worked with:</h3><br>
 <!--     <a href="https://"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"></a>
