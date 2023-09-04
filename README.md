@@ -6,7 +6,11 @@ I am pursuing a B.Tech at Vellore Institute of Technology, Vellore in Computer S
 
 Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern in Data.
 
-My primary focuses include Big Data, working with Data Lakes and building efficient ML based systems.
+My primary focuses include:
+-> Data Analysis and Visualisation
+-> Machine Learning and Deep Learning 
+-> Backend Development using Django
+
 📫 **Contact me by**:
 - Email (pratiksenapati2018@gmail.com)
 - LinkedIn https://www.linkedin.com/in/pratik-senapati-6b0896220/
