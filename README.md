@@ -1,5 +1,4 @@
 ### Hi there, I'm Pratik Senapati 
-<!-- (https://www.andrew.cmu.edu/user/yuezhao2/)  -->
 
 
 I am pursuing a B.Tech at Vellore Institute of Technology, Vellore in Computer Science and Engineering. 
