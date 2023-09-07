@@ -5,10 +5,14 @@ I am pursuing a B.Tech at Vellore Institute of Technology, Vellore in Computer S
 
 Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern in Data.
 
-My primary focuses include:
--> Data Analysis and Visualisation
--> Machine Learning and Deep Learning 
--> Backend Development using Django
+**Current Projects**:
+- Using NLP to build a sustainability rater for a client
+- Using Web Scraping to obtain data and using Machine learning to obtain insights for FMCG
+
+ **My interests:**:
+- Data Analysis and Visualisation
+- Machine Learning and Deep Learning
+- Backend Development using Django
 
 📫 **Contact me by**:
 - Email (pratiksenapati2018@gmail.com)
