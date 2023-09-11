@@ -12,7 +12,9 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
  **My interests:**:
 - Data Analysis and Visualisation
 - Machine Learning and Deep Learning
-- Backend Development using Django
+- Back-End Development using Django
+- Front-End Development using ReactJS
+
 
 📫 **Contact me by**:
 - Email (pratiksenapati2018@gmail.com)
