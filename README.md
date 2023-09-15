@@ -23,8 +23,8 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
 
 
 
-[![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=CriMsonTYpo&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CriMsonTYpo&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratik-senapati&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-senapati&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h3>Pratik's Leetcode stats<h3>
 <img height="175em" src="https://leetcode.card.workers.dev/?username=CriMsonTYpo&theme=dark" alt="CriMsonTYpo"/>
 <div>
