@@ -14,6 +14,7 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
 - Machine Learning and Deep Learning
 - Back-End Development using Django
 - Front-End Development using ReactJS
+- Data Structures and Algorithms in C++
 
 
 📫 **Contact me by**:
