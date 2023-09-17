@@ -74,7 +74,7 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
 <a href="https://"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Redux"></a>
 
    
-     <a href="https://"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"></a>
+    
    
     
   
