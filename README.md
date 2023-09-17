@@ -10,7 +10,7 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
 - Using Web Scraping to obtain data and using Machine learning to obtain insights for FMCG
 
  **My interests:**:
-- Data Analysis and Visualisation
+- Data Analysis and Visualisation with Python, Excel and Tableau
 - Machine Learning and Deep Learning
 - Back-End Development using Django
 - Front-End Development using ReactJS
