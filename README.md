@@ -12,7 +12,6 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
  **My interests:**:
 - Data Analysis and Visualisation with Python, Excel and Tableau
 - Machine Learning and Deep Learning
-- Back-End Development using Django
 - Front-End Development using ReactJS
 - Data Structures and Algorithms in C++
 
