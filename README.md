@@ -6,8 +6,9 @@ I am pursuing a B.Tech at Vellore Institute of Technology, Vellore in Computer S
 Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern in Data.
 
 **Current Projects**:
-- Using NLP to build a sustainability rater for a client
-- Using Web Scraping to obtain data and using Machine learning to obtain insights for FMCG
+- Using NLP to build a sustainability rater for a Client
+- Using Web Scraping to build Amazon Scraping Bot for Bestseller Page
+- Using Market Data to build a Machine learning model to determine Market Attractiveness for a Client
 
  **My interests:**:
 - Data Analysis and Visualisation with Python, Excel and Tableau
