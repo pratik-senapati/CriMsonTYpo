@@ -10,6 +10,9 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
 - Using Web Scraping to build Amazon Scraping Bot for Bestseller Page
 - Using Market Data to build a Machine learning model to determine Market Attractiveness for a Client
 
+**What I'm Learning Right Now:**:
+- Front-End Development with ReactJS
+
  **My interests:**:
 - Web Development with MERN
 - Data Structures and Algorithms in C++
