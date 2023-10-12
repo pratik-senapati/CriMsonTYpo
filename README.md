@@ -11,10 +11,11 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
 - Using Market Data to build a Machine learning model to determine Market Attractiveness for a Client
 
  **My interests:**:
+- Web Development with MERN
+- Data Structures and Algorithms in C++
 - Data Analysis and Visualisation with Python, Excel and Tableau
 - Machine Learning and Deep Learning
-- Front-End Development using ReactJS
-- Data Structures and Algorithms in C++
+
 
 
 📫 **Contact me by**:
@@ -46,22 +47,11 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
     <a href="https://"><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"></a> -->
   <a href="https://"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"></a>
   <a href="https://"><img src="https://img.shields.io/badge/Scrapy-%23024ea3.svg?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"></a>
-<a href="https://"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Matplotlib-%23F37726.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
 <a href="https://"><img src="https://img.shields.io/badge/NLTK-%2300BFFF.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"></a>
-<a href="https://"><img src="https://img.shields.io/badge/Seaborn-%2396D5F2.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"></a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-</a>
-
 <a href="https://"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
     <a href="https://"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
-  <a href="https://"><img src="https://img.shields.io/badge/Power%20Query-%23F2C811.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query"></a>
-<a href="https://"><img src="https://img.shields.io/badge/BERT-%23FF9800.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="BERT"></a>
-  <a href="https://"><img src="https://img.shields.io/badge/VADER-%23FB4D3D.svg?style=for-the-badge&logo=python&logoColor=white" alt="VADER"></a>
-  <a href="https://"><img src="https://img.shields.io/badge/Random%20Forest-%23239120.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Random Forest Classifier"></a>
-<a href="https://"><img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"></a>
 <a href="https://"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 <!--     <a href="https://"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a> -->
