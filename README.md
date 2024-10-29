@@ -3,20 +3,20 @@
 
 I am pursuing a B.Tech at Vellore Institute of Technology, Vellore in Computer Science and Engineering. 
 
-Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern in Data.
+Currently, I'll be joining Marvell Technology as a Software Intern for a 6 month Internship in the Accelerator Team.
 
 **Current Projects**:
-- Using NLP to build a sustainability rater for a Client
-- Using Web Scraping to build Amazon Scraping Bot for Bestseller Page
-- Using Market Data to build a Machine learning model to determine Market Attractiveness for a Client
+- Working on Caption-Similarity Framework using Machine Learning Models with Samsung PRISM 
+- Working on Music-Emotion Classification Project using Machine Learning
+
 
 **What I'm Learning Right Now:**:
-- Front-End Development with ReactJS
+- Machine Learning working on LSTMs
 
  **My interests:**:
-- Web Development with MERN
-- Data Structures and Algorithms in C++
-- Data Analysis and Visualisation with Python, Excel and Tableau
+- Honing C and C++ Skills
+- Cyber-Security
+- Firmware Coding
 - Machine Learning and Deep Learning
 
 
