@@ -31,7 +31,7 @@ Currently, I am interning at Capgemini Chennai as an A3-Software Engineer Intern
 [![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=pratik-senapati&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-senapati&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h3>Pratik's Leetcode stats<h3>
-<img height="175em" src="https://leetcode.card.workers.dev/?username=pratik-senapati&theme=dark" alt="pratik-senapati"/>
+<img height="175em" src="https://leetcode.card.workers.dev/?username=CriMsonTYpo&theme=dark" alt="pratik-senapati"/>
 <div>
   <h3>Languages and tools I've worked with:</h3><br>
 <!--     <a href="https://"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"></a>
