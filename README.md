@@ -49,6 +49,7 @@ Currently, I'll be joining Marvell Technology as a Software Intern for a 6 month
     <a href="https://"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Redux"></a>
     <a href="https://"><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"></a> -->
   <a href="https://"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"></a>
+     <a href="https://"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
   <a href="https://"><img src="https://img.shields.io/badge/Scrapy-%23024ea3.svg?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Matplotlib-%23F37726.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
@@ -57,7 +58,6 @@ Currently, I'll be joining Marvell Technology as a Software Intern for a 6 month
     <a href="https://"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
     <a href="https://"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
 <a href="https://"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Redux"></a>
-   <a href="https://"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
   <br>
 <a href="https://"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
     <a href="https://"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
